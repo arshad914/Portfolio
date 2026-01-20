@@ -3,7 +3,7 @@ const portfolioData = {
     personal: {
         name: "Mohd Arshad",
         title: "Cloud Engineer",
-        tagline: "Building scalable, secure, and efficient cloud infrastructure",
+        tagline: "Building scalable, and efficient cloud infrastructure",
         email: "mohdarshad56821@gmail.com",
         linkedin: "https://www.linkedin.com/in/mohd-arshad-227611281/",
         github: "https://github.com/yourusername",
