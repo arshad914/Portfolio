@@ -2,7 +2,7 @@
 const portfolioData = {
     personal: {
         name: "Mohd Arshad",
-        title: "Cloud Engineer",
+        title: "AWS DevOps Engineer (Trainee)",
         tagline: "Automating, scaling, and securing cloud infrastructure with AWS & DevOps.",
         email: "mohdarshad56821@gmail.com",
         linkedin: "https://www.linkedin.com/in/mohd-arshad-227611281/",
