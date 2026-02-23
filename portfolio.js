@@ -9,7 +9,7 @@ const portfolioData = {
         github: "https://github.com/yourusername",
         phone: "+91-7218893101",
         // ✅ FIXED & WORKING RESUME LINK
-        resume: "https://drive.google.com/file/d/1ppbgyBO2QfBSsVTkbO6G3tcWOUaE0au1/view?usp=sharing"
+        resume: "https://drive.google.com/file/d/1cLjspGBJ6TROLT1nWnOAzNkvd3Z2lner/view?usp=drive_link"
 
     },
 
